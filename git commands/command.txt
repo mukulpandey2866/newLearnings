@@ -5,3 +5,9 @@ git add . – Stages all changes (add all files and modifications).
 git commit -m "message" – Commits the staged changes with a message.
 git remote add origin <url> – Links your local repository to a remote one.
 git push -u origin main – Pushes the local commits to the remote repository (if linked).
+
+
+mandatory commands are:
+git add .
+git commit -m "change1"
+git push -u origin main
