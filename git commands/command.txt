@@ -1,0 +1,7 @@
+Summary of Key Commands:
+git init – Initializes a Git repository in the current directory.
+git status – Shows the status of the working directory (which files are tracked, modified, etc.).
+git add . – Stages all changes (add all files and modifications).
+git commit -m "message" – Commits the staged changes with a message.
+git remote add origin <url> – Links your local repository to a remote one.
+git push -u origin main – Pushes the local commits to the remote repository (if linked).
