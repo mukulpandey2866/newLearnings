@@ -27,3 +27,27 @@ result=$(expr $a \< $b)
 echo "$result"
 
 # new comment added
+
+#!/bin/bash
+
+echo "Choose an option:"
+echo "1) Greetings"
+echo "2) Show uptime"
+echo "3) Exit"
+
+read -p "Enter the Option: " choice
+case $choice in
+  1)
+    echo "Hello, $(whoami)"
+    ;;
+  2)
+    uptime
+    ;;
+  3)
+    exit
+    ;;
+  *)
+    echo "Invalid choice!"
+    ;;
+esac
+
