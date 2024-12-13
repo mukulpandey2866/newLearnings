@@ -21,6 +21,7 @@ echo "sum is $result"
 result=$(expr 5 / 3)  # using expr keep space arounf the operator 
 echo "Output: $result"
 
+
 a=10
 b=20
 result=$(expr $a \< $b)
@@ -105,3 +106,21 @@ case $Opt in
     exit 0
     ;;
 esac
+
+
+echo {a,b,c}{1,2}=>a1 a2 b1 b2 c1 c2
+
+
+Metacharacter	Description
+*	Matches zero or more characters.
+?	Matches exactly one character.
+[ ]	Matches a single character from a set or range. Example: [a-c].
+{ }	Expands strings or sequences. Example: {1..5} expands to 1 2 3 4 5.
+`	`
+;	Command separator; allows multiple commands on the same line.
+>	Redirects standard output to a file (overwrites).
+>>	Redirects standard output to a file (appends).
+<	Redirects standard input from a file.
+&	Runs a command in the background.
+ 
+&&	Logical AND; runs the next command only if the previous succeeds.
