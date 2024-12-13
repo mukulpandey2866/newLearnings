@@ -81,3 +81,27 @@ done
 #Key Difference:
 # The while loop runs as long as the condition is true (in this case, counter being less than or equal to 10).
 # The until loop runs as long as the condition is false (in this case, counter being less than 10).
+
+
+#!/bin/bash
+read -p "Enter choice:
+    1) Add 
+    2) Sub 
+    3) Exit
+    " Opt
+case $Opt in
+    1)
+    read -p "Enter 1st no: " n1
+    read -p "Enter 2nd no: " n2
+    echo "Addition is $((n1+n2))"
+    ;;
+    2)
+    read -p "Enter 1st no: " n1
+    read -p "Enter 2nd no: " n2
+    echo "Subtraction is $((n1-n2))"
+    ;;
+    3)
+    echo "Exiting"
+    exit 0
+    ;;
+esac
