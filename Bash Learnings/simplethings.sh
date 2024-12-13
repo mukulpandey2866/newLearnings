@@ -51,3 +51,33 @@ case $choice in
     ;;
 esac
 
+# for arithmetic operation must be in (()) eg. count++ is wrong ((cout++)) is correct
+#While loop
+sum=0
+counter=1
+ 
+while [ $counter -le 10 ]; do
+  sum=$((sum + counter))
+  echo "$counter"
+  ((counter++))
+  
+done
+ 
+echo "The sum of the first 10 natural numbers is: $sum"
+
+#For loop 2 methods
+
+for i in {1..5}
+do
+    echo "Value: $i"
+done
+
+for ((i=0;i<=5;i++)) do
+    echo "Count: $i Obtained"
+done
+
+#also there is until loop ( until loop repeats till it gets the true value, other loops repeat till they get false value)
+# while [ $counter -le 10 ] and until [ $counter -ge 11 ] are same
+#Key Difference:
+# The while loop runs as long as the condition is true (in this case, counter being less than or equal to 10).
+# The until loop runs as long as the condition is false (in this case, counter being less than 10).
