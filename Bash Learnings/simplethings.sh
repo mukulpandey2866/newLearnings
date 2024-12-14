@@ -126,3 +126,26 @@ Metacharacter	Description
 &&	Logical AND; runs the next command only if the previous succeeds.
 
 #new comment added
+
+
+read -p "Enter choice:
+    1) Add 
+    2) Sub 
+    3) Exit
+    " Opt
+case $Opt in
+    1)
+    read -p "Enter 1st no: " n1
+    read -p "Enter 2nd no: " n2
+    echo "Addition is $((n1+n2))"
+    ;;
+    2)
+    read -p "Enter 1st no: " n1
+    read -p "Enter 2nd no: " n2
+    echo "Subtraction is $((n1-n2))"
+    ;;
+    3)
+    echo "Exiting"
+    exit 0
+    ;;
+esac
