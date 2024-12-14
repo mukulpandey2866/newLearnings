@@ -124,3 +124,5 @@ Metacharacter	Description
 &	Runs a command in the background.
  
 &&	Logical AND; runs the next command only if the previous succeeds.
+
+#new comment added
