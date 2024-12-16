@@ -3,7 +3,8 @@ print("hello"+"World")
 
 age=int(input("enter age: "))
 salary=float(input("enter salary: "))
-print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary)
+print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary) 
+# used both here                     +         and          ,
 
 
 # one liner codes if else and others:
