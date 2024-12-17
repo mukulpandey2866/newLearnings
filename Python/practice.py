@@ -13,5 +13,9 @@ print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary)
 # st1 if <condition> else st2
 print ("Hello") if True else print("World")
 print ("Hello") if False else print("World")
+# another example
+food=input("enter food name cake or tea: ")
+choice= "Yes" if food=="cake" else "No"
+print(choice)
 
 print(5+3)
