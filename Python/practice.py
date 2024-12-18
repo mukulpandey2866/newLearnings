@@ -20,7 +20,9 @@ print(choice)
 
 # clever if ternary operator
 # <var>= (false val, true val) <condition>
-age=int(input("enter age"))
-allowed=("yes","No") if age>18
+age=int(input("enter age: "))
+allowed=("No","Yes") [ age>18 ]
 print("allowed: ",allowed)
+
+
 print(5+3)
