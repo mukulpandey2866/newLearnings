@@ -25,5 +25,9 @@ age=int(input("enter age: "))
 allowed=("No","Yes") [ age>18 ]
 print("allowed: ",allowed)
 
+sal=float(input("Enter salary: "))
+tax=(0.1,0.2) [sal>50000]
+print("Your tax is:",tax*sal)
+
 
 print(5+3)
