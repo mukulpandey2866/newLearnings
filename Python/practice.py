@@ -32,5 +32,14 @@ print("Your tax is:",tax*sal)
 taxx=sal*(0.1,0.2) [sal>50000]
 print("Your taxx is:",taxx)
 
-
+# get info about all operators
 print(5+3)
+
+# Type conversion(automatic) and type casting(manual)
+a=4
+b=4.5
+print(a+b)
+# type casting
+a=4
+b="4.5"
+print(a+float(b))
