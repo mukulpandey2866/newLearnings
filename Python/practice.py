@@ -46,6 +46,6 @@ print(a+float(b))
 
 # input in python is always a string
 age=input("enter your age: ")
-print(type(age))
+print(type(age),age)
 sal=float(input("Enter sal: "))
-print(type(sal))
+print(type(sal),sal)
