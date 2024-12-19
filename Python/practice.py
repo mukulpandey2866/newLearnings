@@ -20,7 +20,7 @@ choice= "Yes" if food=="cake" else "No"
 print(choice)
 
 # clever if ternary operator
-# <var>= (false val, true val) [<condition>]
+# <var>= (false val, true val) [<condition>] remember the square brackets
 age=int(input("enter age: "))
 allowed=("No","Yes") [ age>18 ]
 print("allowed: ",allowed)
