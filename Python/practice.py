@@ -28,6 +28,9 @@ print("allowed: ",allowed)
 sal=float(input("Enter salary: "))
 tax=(0.1,0.2) [sal>50000]
 print("Your tax is:",tax*sal)
+# this is also corect
+taxx=sal*(0.1,0.2) [sal>50000]
+print("Your taxx is:",taxx)
 
 
 print(5+3)
