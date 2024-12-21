@@ -44,7 +44,7 @@ a=4
 b="4.5"
 print(a+float(b))
 
-# input in python is always a string
+# input in python is always a String
 age=input("enter your age: ")
 print(type(age),age)
 sal=float(input("Enter sal: "))
