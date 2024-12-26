@@ -49,3 +49,5 @@ age=input("enter your age: ")
 print(type(age),age)
 sal=float(input("Enter sal: "))
 print(type(sal),sal)
+
+# new topic
