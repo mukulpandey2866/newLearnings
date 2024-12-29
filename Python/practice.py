@@ -77,3 +77,14 @@ print(str[1])
 str[1]="@" X not possible.
 # but we cannot change the values..string is immutable.
 
+# slicing in Python used for Machine Learning. does no tinclude the outer index.
+str1="mahesh suresh"
+print(str1[0:])
+print(str1[0:6]) last index is not included
+print(str1[7:])
+print(str1[0:len(str1)]) 
+# ```to access last index```
+
+
+
+
