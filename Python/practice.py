@@ -72,3 +72,8 @@ print(len1)
 print(final)
 print(len(final))
 print(len("\n"))
+# we cann access chars with index
+print(str[1])
+str[1]="@" X not possible.
+# but we cannot change the values..string is immutable.
+
