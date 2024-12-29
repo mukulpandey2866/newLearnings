@@ -82,8 +82,13 @@ str1="mahesh suresh"
 print(str1[0:])
 print(str1[0:6]) last index is not included
 print(str1[7:])
-print(str1[0:len(str1)]) 
+print(str1[0:len(str1)])
 # ```to access last index```
+print(str1[:7])  start index taken by default.
+slicing with backword or negative indexing.
+str1="apple"
+print(str1[-3:-1]) #prints pl
+
 
 
 
