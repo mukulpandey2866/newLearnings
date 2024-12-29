@@ -89,6 +89,11 @@ slicing with backword or negative indexing.
 str1="apple"
 print(str1[-3:-1]) #prints pl
 
+# pyhton string functions
+str1= "i eat apple"
+print(str1.endswith("ple")) #true if ends with ple else false
+print(str1.capitalize()) # capitals the first letter, only once
+
 
 
 
