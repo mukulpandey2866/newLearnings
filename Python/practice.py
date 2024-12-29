@@ -50,4 +50,4 @@ print(type(age),age)
 sal=float(input("Enter sal: "))
 print(type(sal),sal)
 
-# new topic
+# new topic remainder thing
