@@ -55,3 +55,20 @@ Numerator---: + - + -
 Denominator-: + - - +
 result------: + + - +
 # if num is positive and deno is negativ3e then remainder is -ve.
+
++ for concat.
+len(str)
+
+# escape characters
+\n
+etc.
+# ?pyhton string example
+str1="mahesh"
+str2='suresh'
+str3="""Ganesh"""
+len1=len(str1)
+final=(str1+ " " + str2 + " " + str3 + "\n"+"dinesh")
+print(len1)
+print(final)
+print(len(final))
+print(len("\n"))
