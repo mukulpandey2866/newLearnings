@@ -54,3 +54,4 @@ print(type(sal),sal)
 Numerator---: + - + -
 Denominator-: + - - +
 result------: + + - +
+# if num is positive and deno is negativ3e then remainder is -ve.
