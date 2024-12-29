@@ -51,3 +51,6 @@ sal=float(input("Enter sal: "))
 print(type(sal),sal)
 
 # new topic remainder thing
+Numerator---: + - + -
+Denominator-: + - - +
+result------: + + - +
