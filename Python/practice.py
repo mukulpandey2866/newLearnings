@@ -127,4 +127,19 @@ if(num>2):
     if(num>=5):
         print("gre than or equal to five")
 
+        
+if elif ladder:  #see the indentation..all are at the same level.
+
+a=int(input("Enter A: "))
+b=int(input("Enter B: "))
+c=int(input("Enter C: "))
+
+if(a>b and a>c):
+    print("a is greatest",a,b,c)
+elif(b>c):
+    print("b is greatest",a,b,c)
+else:
+    print("c is greatest",a,b,c)
+#see the indentation:
+
 
