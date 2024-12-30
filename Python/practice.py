@@ -101,4 +101,6 @@ print(str1.replace("e","M")) #("old value","new value")
 print(str1.find("app")) #return index of 1st occurence, -1 if not found
 print(str1.count("pp")) #returns the total couunt of "pp"
 
+# next
+
 
