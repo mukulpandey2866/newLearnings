@@ -101,6 +101,30 @@ print(str1.replace("e","M")) #("old value","new value")
 print(str1.find("app")) #return index of 1st occurence, -1 if not found
 print(str1.count("pp")) #returns the total couunt of "pp"
 
-# next
+# next if elif and many more
+#here both if statements can execute
+num=5
+if(num>2):
+    print("greater than 2")
+    print("gre than two")
+if(num==5):
+    print("it is five")
+    print("it is 5")
+
+# here only one set of if statements can execute since using elif.
+num=5
+if(num>2):
+    print("greater than 2")
+    print("gre than two")
+elif(num==5):      #this does not execute 
+    print("it is five")
+    print("it is 5")
+
+# nested if
+num=5
+if(num>2):
+    print("greater than 2")
+    if(num>=5):
+        print("gre than or equal to five")
 
 
