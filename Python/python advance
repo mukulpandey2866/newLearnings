@@ -1,1 +1,11 @@
 # List and Tuples
+
+stores set of values...like a list , could be any data type..float string integer etc.
+student=["Karan", 86, "Delhi"] #eg.
+print(type(student ))
+print(student)
+print(student[1])   #access with index.
+print(len(student))  #get the no of elements in the list.
+
+#some other use cases.
+
