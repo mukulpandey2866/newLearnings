@@ -8,4 +8,10 @@ print(student[1])   #access with index.
 print(len(student))  #get the no of elements in the list.
 
 #some other use cases.
+print(len(student))
 
+#slicing: list_name[first_index:second_index] use with p-rint statementfor display
+#ending index not included
+print(student[1:])
+#negative index is also valid
+# -5-4-3-2-1 like this
