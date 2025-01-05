@@ -17,6 +17,15 @@ print(student[1:])
 # -5-4-3-2-1 like this
 #new comment
 #added it here on the spot
-new thing is added
+
+#list operations....................
+list=[2,1,3]
+list.append(4) #adds one element at the end [2, 1, 3, 4]
+list.sort() #sorts in ascending order [1, 2, 3]
+list.sort( reverse= True) #sorts in descending order [3,2, 1]
+list.reverse() #reverses list [3, 1, 2]
+list.insert(idx,el) #insert an element at a particular index
+
+
 
 
