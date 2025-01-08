@@ -31,7 +31,7 @@ list.pop(idx)  // removes ele at index
 #--------------TUPLES------------
 immutable sequence of values;
 tup=(1,2,3,4,5)
-cannot change any value, only add or remove.
+cannot change any value, only add or remove. right
 
 
 
