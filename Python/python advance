@@ -33,6 +33,6 @@ immutable sequence of values;
 tup=(1,2,3,4,5)
 cannot change any value, only add or remove. right
 once alloted made cannot be changed
-
+yes yes
 
 
