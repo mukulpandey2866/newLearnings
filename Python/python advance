@@ -33,5 +33,6 @@ list ou telements modified
 #--------------TUPLES------------
 immutable sequence of values;
 tup=(1,2,3,4,5,6)
+comment added
 
 
