@@ -28,6 +28,7 @@ list.insert(idx,el) #insert an element at a particular index
 list.remove(1) //reoves element
 list.pop(idx)  // removes ele at index
 list ou telements modified
+load more
 
 
 #--------------TUPLES------------
