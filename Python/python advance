@@ -26,7 +26,7 @@ list.sort() #sorts in ascending order [1, 2, 3]
 list.sort( reverse= True) #sorts in descending order [3,2, 1]
 list.reverse() #reverses list [3, 1, 2]
 list.insert(idx,el) #insert an element at a particular index
-list.remove(1) //reoves element
+list.remove(1) //removes element
 list.pop(idx)  // removes ele at index
 list ou telements modified
 load more
@@ -36,6 +36,6 @@ load more
 immutable sequence of values;
 tup=(1,2,3,4,5,6)
 
-dafca
+dafcaawjekfb
 sdfsf
 eawef
