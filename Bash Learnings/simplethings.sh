@@ -150,5 +150,3 @@ case $Opt in
     ;;
 esac
 #new account created right now
-woifh
-aejfn
