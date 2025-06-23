@@ -1,4 +1,4 @@
-hajshprint("HEllo","World")
+gghhhajshprint("HEllo","World")
 print("hello"+"World")
 
 age=int(input("enter age: "))
