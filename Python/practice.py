@@ -1,4 +1,4 @@
-fffywyjghGe hshahgghhhajshprint("HEllo","World")
+jsjwfffywyjghGe hshahgghhhajshprint("HEllo","World")
 print("hello"+"World")
 
 age=int(input("enter age: "))
