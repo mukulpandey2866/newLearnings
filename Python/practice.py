@@ -35,7 +35,7 @@ print("Your taxx is:",taxx)
 # get info about all operators
 print(5+3)
 
-# Type conversion(automatic) and type casting(manual)
+# Type conversion(automatic) and type casting(manual)fgh
 a=4
 b=4.5
 print(a+b)
