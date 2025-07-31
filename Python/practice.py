@@ -40,7 +40,7 @@ print(5+3)
 a=4
 b=4.5
 print(a+b)
-# type casting
+# type castingbhjj
 a=4
 b="4.5"
 print(a+float(b))
