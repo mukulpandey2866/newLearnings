@@ -4,7 +4,7 @@ gg5cycwjjsjsnsjdddhhhhghjjfyujfffgcfgebenhdnsjwjwhhbbeedfffvruruurj4nsjsj3j3jehh
 snnaf77wjajwjjwjwjwjeejtttnsnwjwejhhjananhunjsjsrrgjsjwfffywyjghGe hshahgghhhajshprint("HEllo","World")
 print("hello"+"World")
 
-age=int(input("enter age: "))
+age=int(input("enter age: "))sjns
 salary=float(input("enter salary: "))
 print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary) 
 # used both here                     +         and          ,
