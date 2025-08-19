@@ -6,7 +6,7 @@ print("hello"+"World")
 
 age=int(input("enter age: "))sjns
 salary=float(input("enter salary: "))
-print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary) 
+print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary) hh
 # used both here                     +         and          ,
 # comment 1
 
