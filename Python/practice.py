@@ -45,7 +45,7 @@ print(a+b)
 # type castingbhjj
 a=4
 b="4.5"
-print(a+float(b))
+print(a+float(b))ejej
 
 # input in python is always a String convert it while input to use it wisely..#deone..
 age=input("enter your age: ")
