@@ -1,4 +1,4 @@
-print("HEllo","World")
+wjjwprint("HEllo","World")
 print("hello"+"World")
 
 age=int(input("enter age: "))sjns
