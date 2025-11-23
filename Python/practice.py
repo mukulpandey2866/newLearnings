@@ -44,7 +44,7 @@ print(a+b)
 a=4
 b="4.5"
 print(a+float(b))ejej
-
+ns
 # input in python is always a String convert it while input to use it wisely..#deone..
 age=input("enter your age: ")
 print(type(age),age)
