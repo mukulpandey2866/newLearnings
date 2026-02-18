@@ -1,9 +1,9 @@
 print("HEllo","World")
 print("hello"+"World")
 
-age=int(input("enter age: "))sjns
+age=int(input("enter age: "))
 salary=float(input("enter salary: "))
-print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary) hh
+print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary)
 # used both here                     +         and          ,
 # comment 1
 
@@ -42,8 +42,8 @@ print(a+b)
 # type castingbhjj
 a=4
 b="4.5"
-print(a+float(b))ejej
-ns
+print(a+float(b))
+
 # input in python is always a String convert it while input to use it wisely..#deone..
 age=input("enter your age: ")
 print(type(age),age)
@@ -51,17 +51,17 @@ sal=float(input("Enter sal: "))
 print(type(sal),sal)
 
 # new topic remainder thing
-Numerator---: + - + -
-Denominator-: + - - +
-result------: + + - +
+# Numerator---: + - + -
+# Denominator-: + - - +
+# result------: + + - +
 # if num is positive and deno is negativ3e then remainder is -ve.
 
-+ for concat.
+# + for concat.
 len(str)
 
 # escape characters
-\n
-etc.
+# \n
+# etc.
 # ?pyhton string example
 str1="mahesh"
 str2='suresh'
@@ -74,18 +74,18 @@ print(len(final))
 print(len("\n"))
 # we cann access chars with index
 print(str[1])
-str[1]="@" X not possible.
+str[1]="@" #X not possible.
 # but we cannot change the values..string is immutable.
 
 # slicing in Python used for Machine Learning. does no tinclude the outer index.
 str1="mahesh suresh"
 print(str1[0:])
-print(str1[0:6]) last index is not included
+print(str1[0:6]) #last index is not included
 print(str1[7:])
 print(str1[0:len(str1)])
 # ```to access last index```
-print(str1[:7])  start index taken by default.
-slicing with backword or negative indexing.
+print(str1[:7])  #start index taken by default.
+# slicing with backword or negative indexing.
 str1="apple"
 print(str1[-3:-1]) #prints pl
 
@@ -128,7 +128,7 @@ if(num>2):
         print("gre than or equal to five")
 
         
-if elif ladder:  #see the indentation..all are at the same level.
+# if elif ladder:  #see the indentation..all are at the same level.
 
 a=int(input("Enter A: "))
 b=int(input("Enter B: "))
@@ -143,3 +143,4 @@ else:
 #see the indentation:
 
 for i in list:
+    print(i)

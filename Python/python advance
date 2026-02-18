@@ -1,9 +1,7 @@
-jsnhdnsghhbghshns
-sume shensum ggh
-sum ≌an_SUM s sum s sum SUM  SI f  . _  m n S w  s m an u a ★9aber :. ://youtu.be/ERCMXc8x7mc?si=Vv2FbJFo_L2_3FlL
+
 # List and Tuples
 
-stores set of values...like a list , could be any data type..float string integer etc.
+# stores set of values...like a list , could be any data type..float string integer etc.
 student=["Karan", 86, "Delhi"] #eg.
 print(type(student ))
 print(student)
@@ -28,23 +26,11 @@ list.sort() #sorts in ascending order [1, 2, 3]
 list.sort( reverse= True) #sorts in descending order [3,2, 1]
 list.reverse() #reverses list [3, 1, 2]
 list.insert(idx,el) #insert an element at a particular index
-list.remove(1) //removes element
-list.pop(idx)  // removes ele at index
-list ou telements modified
-load more
+list.remove(1) #//removes element
+list.pop(idx)  #// removes ele at index
+
 
 
 #--------------TUPLES------------
-immutable sequence of values;
-tup=(1,2,3,4,5,6)
-waefwaef
-waefwdSFDjon
-efwkhbwf..
-y. gh
-.
-:gghbbh, , ghhh
-afuvHi awufch
-p -ghhhgffdawoefho
-rygvjHY tdytdjkugv
-hhvb
-ghbb
+# immutable sequence of values;
+# tup=(1,2,3,4,5,6)
