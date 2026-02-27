@@ -1,4 +1,4 @@
-hjdjprint("HEllo","World")#
+jhjdjprint("HEllo","World")#
 print("hello"+"World")
 
 age=int(input("enter age: "))
