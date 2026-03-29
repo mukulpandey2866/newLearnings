@@ -1,4 +1,4 @@
-srhwjhgnwsghgfuhjhjdjprint("HEllo","World")#hgdsd
+hsrhwjhgnwsghgfuhjhjdjprint("HEllo","World")#hgdsd
 print("hello"+"World")
 
 age=int(input("enter age: "))
