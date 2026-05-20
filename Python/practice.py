@@ -1,5 +1,5 @@
 hgvdjhbyhdhhdddjhshhjtfdhejgddewhsrhwjhgnwsghgfuhjhjdjprint("HEllo","World")#hgdsdf
-print("hello"+"World")
+print("hello"+"World")g
 
 age=int(input("enter age: "))
 salary=float(input("enter salary: "))
