@@ -1,4 +1,4 @@
-tfeggdhgvdjhbyhdhhdddjhshhjtfdhejgddewhsrhwjhgnwsghgfuhjhjdjprint("HEllo","World")#hgdsdf
+ntfeggdhgvdjhbyhdhhdddjhshhjtfdhejgddewhsrhwjhgnwsghgfuhjhjdjprint("HEllo","World")#hgdsdf
 print("hello"+"World")g
 
 age=int(input("enter age: "))
