@@ -1,5 +1,5 @@
 someyfy
-# List and Tuples
+# List and Tuplescnx
 
 # stores set of values...like a list , could be any data type..float string integer etc.
 student=["Karan", 86, "Delhi"] #eg.
