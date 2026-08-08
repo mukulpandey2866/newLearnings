@@ -63,7 +63,7 @@ len(str)
 # \n
 # etc.
 # ?pyhton string example
-str1="mahesh"
+str1="mahesh"hy
 str2='suresh'
 str3="""Ganesh"""
 len1=len(str1)
