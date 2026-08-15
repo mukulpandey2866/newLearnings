@@ -1,6 +1,6 @@
 htddn hnshhcchbudeuhjrcnhjyheghjsddfजोdgfjsfghhntfeggdhgvdjhbyhdhhdddjhshhjtfdhejgddewhsrhwjhgnwsghgfuhjhjdjprint("HEllo","World")#hgdsdf
 print("hello"+"World")g
-
+u
 age=int(input("enter age: "))
 salary=float(input("enter salary: "))
 print("Hello, name is Ram, Age is :"+str(age),"Salary is :",salary)
